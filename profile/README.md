@@ -8,11 +8,13 @@ If you want to learn more about our research, you should have a look at the post
 <details><summary>Imprint | Impressum</summary>
 
 Herausgeber \
-Leibniz-Institut für Europäische Geschichte (IEG) \
+Leibniz-Institut für Europäische Geschichte (IEG) | Leibniz Institute of European History (IEG)\
 Alte Universitätsstraße 19 \
 D-55116 Mainz \
+Germany \
 http://www.ieg-mainz.de \
-Telefon: ++49 (0) 6131 39 393 50 \
+Telefon | Phone: ++49 (0) 6131 39 393 50 \
 Fax: ++ 49 (0) 6131 39 353 26 \
 digital@ieg-mainz.de \
-Verantwortlich für den Inhalt: Prof. Dr. Nicole Reinhardt, Prof. Dr. Johannes Paulmann
+Verantwortlich für den Inhalt | Responsible for the content: \
+Prof. Dr. Nicole Reinhardt, Prof. Dr. Johannes Paulmann
